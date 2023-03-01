@@ -1,7 +1,7 @@
 import math
 import random
 
-def test_greeting_1():
+def test_greeting_12():
     """
     Напишите программу, которая выводит на экран приветствие.
     """
